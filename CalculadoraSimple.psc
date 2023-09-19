@@ -1,4 +1,4 @@
-Algoritmo ClaculoBasico 
+Algoritmo CalculadoraSimple
 	Definir NumX, NumY, Suma, Dif Como Real 
 	Escribir "Ingresa el primer numero: "
 	Leer NumX
